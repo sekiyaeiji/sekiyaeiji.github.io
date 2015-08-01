@@ -1,12 +1,14 @@
 # Site settings
 title: sekiyaeiji blog
-email: sej20xx@gmail.com
+smalltalk: "sekiyaeiji blog"
 description: > # this means to ignore newlines until "baseurl:"
   sekiyaeiji blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sekiyaeiji.github.io" # the base hostname & protocol for your site
 twitter_username: sekiyaeiji
-github_username:  sekiyaeiji
+github_username: sekiyaeiji
+facebook_username: eiji.sekiya
+portfolio_url: http://line.s-ej.com
 
 # Build settings
 markdown: kramdown
